@@ -1,1 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QA5O9x4M)
+# Merhabalar, bizim projemizin adı "oto yıkama dükkanı otomasyonu". Bu projemizde amacımız oto yıkama dükkanları  sahiplerinin müşteri bilgilerini ve ödeme bilgilerini kolayca kaydetme ve şifreli bir şekilde korumasıdır, ayrıca projemiz sayesinde bilgilerin kaybolma ihtimalide minimum seviye de olacaktır. Projemizin sayfaları sade şekilde tasarlandığı için kullanım kolaylığı sağlamaktadır.
+![Ekran Görüntüsü (30)](https://user-images.githubusercontent.com/90394055/235238715-4830011d-8895-497f-b123-35a33ef5f51c.png)
