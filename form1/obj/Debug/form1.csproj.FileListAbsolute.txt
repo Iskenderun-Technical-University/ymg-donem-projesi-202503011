@@ -1,0 +1,49 @@
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\bin\Debug\form1.exe.config
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\bin\Debug\form1.exe
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\bin\Debug\form1.pdb
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.csprojAssemblyReference.cache
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.Form1.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.exe
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.pdb
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.Form2.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.Form3.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.sifredegistir.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.FiyatGoster.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.odeme.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\form1\form1\obj\Debug\form1.AramaYap.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\bin\Debug\form1.exe.config
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\bin\Debug\form1.exe
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\bin\Debug\form1.pdb
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.csprojAssemblyReference.cache
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.AramaYap.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.FiyatGoster.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Form1.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Form2.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Form3.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.odeme.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.sifredegistir.resources
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.exe
+C:\Users\ÖZKAN PEKTAŞ\source\repos\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.pdb
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\bin\Debug\form1.exe.config
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\bin\Debug\form1.exe
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\bin\Debug\form1.pdb
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.AramaYap.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.FiyatGoster.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Form1.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Form2.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Form3.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.odeme.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.sifredegistir.resources
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.exe
+C:\Users\ÖZKAN\Desktop\202503011_özkanpektas\202503011_ÖZKANPEKTAS\form1\obj\Debug\form1.pdb
